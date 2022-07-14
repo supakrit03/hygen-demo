@@ -1,0 +1,15 @@
+{
+  "name": "hygen-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hygen": "hygen"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hygen": "^6.2.7"
+  }
+}
