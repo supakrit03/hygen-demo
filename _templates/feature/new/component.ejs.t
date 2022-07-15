@@ -7,7 +7,7 @@ import { FC } from "react";
 interface <%= Name %>Props {
 }
 
-const <%= Name %> : FC<<%= Name %>Props> = () => {
+ <%= Name %> : FC<<%= Name %>Props> = () => {
 
   return (
     <>
